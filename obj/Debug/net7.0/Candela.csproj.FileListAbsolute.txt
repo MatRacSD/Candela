@@ -1,0 +1,15 @@
+C:\Users\Raci\Desktop\Candela\bin\Debug\net7.0\Candela.exe
+C:\Users\Raci\Desktop\Candela\bin\Debug\net7.0\Candela.deps.json
+C:\Users\Raci\Desktop\Candela\bin\Debug\net7.0\Candela.runtimeconfig.json
+C:\Users\Raci\Desktop\Candela\bin\Debug\net7.0\Candela.dll
+C:\Users\Raci\Desktop\Candela\bin\Debug\net7.0\Candela.pdb
+C:\Users\Raci\Desktop\Candela\obj\Debug\net7.0\Candela.csproj.AssemblyReference.cache
+C:\Users\Raci\Desktop\Candela\obj\Debug\net7.0\Candela.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Raci\Desktop\Candela\obj\Debug\net7.0\Candela.AssemblyInfoInputs.cache
+C:\Users\Raci\Desktop\Candela\obj\Debug\net7.0\Candela.AssemblyInfo.cs
+C:\Users\Raci\Desktop\Candela\obj\Debug\net7.0\Candela.csproj.CoreCompileInputs.cache
+C:\Users\Raci\Desktop\Candela\obj\Debug\net7.0\Candela.dll
+C:\Users\Raci\Desktop\Candela\obj\Debug\net7.0\refint\Candela.dll
+C:\Users\Raci\Desktop\Candela\obj\Debug\net7.0\Candela.pdb
+C:\Users\Raci\Desktop\Candela\obj\Debug\net7.0\Candela.genruntimeconfig.cache
+C:\Users\Raci\Desktop\Candela\obj\Debug\net7.0\ref\Candela.dll
